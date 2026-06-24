@@ -1,2 +1,24 @@
 # used-car-sales-analysis
-End-to-end Data Analysis project using Excel, SQL, PostgreSQL, Power BI to analyse used car trends, pricing patterns, and business insights.
+End-to-end data analysis project using **Excel, SQL, PostgreSQL, and Power BI** to analyze used car sales trends, pricing patterns, and business insights.
+## Tools Used
+- Excel
+- SQL
+- PostgreSQL
+- Power BI
+## Project Workflow
+- Data cleaning and preprocessing in Excel
+- SQL analysis using PostgreSQL
+- Exploratory Data Analysis (EDA)
+- Interactive dashboard creation in Power BI
+- Business insights and recommendations
+## Key KPIs
+- Total Cars Listed
+- Average Selling Price
+- Average KM Driven
+- Fuel Type Distribution
+- Transmission Analysis
+- Owner Type Analysis
+## Files Included
+- `Used Car Analysis project 1.csv` – dataset used for analysis
+- `sql/` – SQL queries for analysis
+- `used_car_sales_dashboard.pbix` – Power BI dashboard file
