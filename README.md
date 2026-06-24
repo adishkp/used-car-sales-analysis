@@ -19,6 +19,6 @@ End-to-end data analysis project using **Excel, SQL, PostgreSQL, and Power BI** 
 - Transmission Analysis
 - Owner Type Analysis
 ## Files Included
-- `Used Car Analysis project 1.csv` – dataset used for analysis
-- `sql/` – SQL queries for analysis
+- `Used_Car_Analysis_project 1.csv` – dataset used for analysis
+- `car_analysis.sql/` – SQL queries for analysis
 - `used_car_sales_dashboard.pbix` – Power BI dashboard file
