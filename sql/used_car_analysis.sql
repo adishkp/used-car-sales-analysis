@@ -1,1 +1,0 @@
---Used Car Sales Analysis SQL Queries 
