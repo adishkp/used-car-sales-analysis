@@ -22,3 +22,5 @@ End-to-end data analysis project using **Excel, SQL, PostgreSQL, and Power BI** 
 - `Used_Car_Analysis_project 1.csv` – dataset used for analysis
 - `car_analysis.sql/` – SQL queries for analysis
 - `used_car_sales_dashboard.pbix` – Power BI dashboard file
+- ##Dashboard Preview
+- ![Used car sales dashboard](Overview.png)
