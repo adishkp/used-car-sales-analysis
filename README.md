@@ -25,5 +25,5 @@ End-to-end data analysis project using **Excel, SQL, PostgreSQL, and Power BI** 
 - ## Dashboard Preview
 - ![Used car sales dashboard](Overview.png)
 ## Price analysis
-- ![Used car sales dashboard](Price Analysis.png)
+- ![Used car sales dashboard](PriceAnalysis.png)
 - 
